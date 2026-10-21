@@ -1,0 +1,13 @@
+{
+  "name": "monkey-mode",
+  "version": "1.0.0",
+  "description": "Explain heavy topics visually, one layer at a time: stacked HTML 'ladders' with pictures first, words as captions.",
+  "author": {
+    "name": "Omar Hamdan",
+    "url": "https://github.com/ramo-nadmah"
+  },
+  "homepage": "https://github.com/ramo-nadmah/monkey-mode",
+  "repository": "https://github.com/ramo-nadmah/monkey-mode",
+  "license": "MIT",
+  "keywords": ["explain", "learning", "visual", "eli5", "ladder"]
+}

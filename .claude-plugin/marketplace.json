@@ -1,0 +1,15 @@
+{
+  "name": "monkey-mode",
+  "description": "Monkey Mode: visual, one-layer-at-a-time explanations for heavy topics.",
+  "owner": {
+    "name": "Omar Hamdan",
+    "url": "https://github.com/ramo-nadmah"
+  },
+  "plugins": [
+    {
+      "name": "monkey-mode",
+      "source": "./",
+      "description": "Explain heavy topics visually, one layer at a time: stacked HTML 'ladders' with pictures first, words as captions."
+    }
+  ]
+}
